@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\bin\Debug\net8.0\FactoryMethod Example.exe
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\bin\Debug\net8.0\FactoryMethod Example.deps.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\bin\Debug\net8.0\FactoryMethod Example.runtimeconfig.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\bin\Debug\net8.0\FactoryMethod Example.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\bin\Debug\net8.0\FactoryMethod Example.pdb
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.sourcelink.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\refint\FactoryMethod Example.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.pdb
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\FactoryMethod Example.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-1 - Design Patterns and Principles\FactoryMethod Example\obj\Debug\net8.0\ref\FactoryMethod Example.dll

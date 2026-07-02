@@ -1,0 +1,12 @@
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.deps.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\bin\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.sourcelink.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\refint\CustomerCommLib.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\CustomerCommLib.pdb
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-4 - NUnit and Moq\Moq Handson\CustomerCommLib\obj\Debug\net8.0\ref\CustomerCommLib.dll

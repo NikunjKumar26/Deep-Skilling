@@ -1,0 +1,7 @@
+Recursion:Recursion is a technique where a method calls itself to solve a problem by breaking it into smaller subproblems.
+TIME COMPLEXITY:T(n) = T(n-1) + O(1)
+Optimization:1.Memoization
+2.Dynamic Programming
+3.Mathematical Formula
+--->Future Value = Present Value × (1 + Growth Rate)^Years
+This avoids excessive computation and improves performance.

@@ -1,0 +1,15 @@
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\bin\Debug\net8.0\EcommerceSearchExample.exe
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\bin\Debug\net8.0\EcommerceSearchExample.deps.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\bin\Debug\net8.0\EcommerceSearchExample.runtimeconfig.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\bin\Debug\net8.0\EcommerceSearchExample.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\bin\Debug\net8.0\EcommerceSearchExample.pdb
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.AssemblyInfoInputs.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.AssemblyInfo.cs
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.sourcelink.json
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\refint\EcommerceSearchExample.dll
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.pdb
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\EcommerceSearchExample.genruntimeconfig.cache
+C:\Users\Dell\Downloads\Cognizant_FSE\DeepSkilling\Week-1\Module-2 - Data Structures and Algorithms\EcommerceSearchExample\obj\Debug\net8.0\ref\EcommerceSearchExample.dll

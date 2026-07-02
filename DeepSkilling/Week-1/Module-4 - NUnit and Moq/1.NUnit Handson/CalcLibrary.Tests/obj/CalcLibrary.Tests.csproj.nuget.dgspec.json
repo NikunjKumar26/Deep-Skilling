@@ -1,0 +1,150 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+        "projectName": "CalcLibrary.Tests",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary.Tests\\CalcLibrary.Tests.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary\\CalcLibrary.csproj": {
+                "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary\\CalcLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary\\CalcLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary\\CalcLibrary.csproj",
+        "projectName": "CalcLibrary",
+        "projectPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary\\CalcLibrary.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dell\\Downloads\\Cognizant_FSE\\DeepSkilling\\Week-1\\Module-4 - NUnit and Moq\\1.NUnit Handson\\CalcLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.422/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
