@@ -1,0 +1,16 @@
+<h1>{{ portalName }}</h1>
+<p>Welcome to the portal. Browse and enroll in your courses.</p>
+<div>
+  <span>Courses Available: 12</span> |
+  <span>Enrolled: 3</span> |
+  <span>GPA: 3.8</span>
+</div>
+<hr>
+
+<button [disabled]="!isPortalActive" (click)="onEnrollClick()">Enroll Now</button>
+<p *ngIf="message">{{ message }}</p>
+
+<!-- [property] is one-way binding (component -> DOM), 
+     [(ngModel)] is two-way binding (component <-> DOM) -->
+<input [(ngModel)]="searchTerm" placeholder="Search courses...">
+<p>Searching for: {{ searchTerm }}</p>
